@@ -1,5 +1,7 @@
 # HydraPlus - Static landing page and dashboard
 
+Website URL: https://hydraplus.netlify.app
+
 This project implements basic frontend core concepts to build a static webpage that uses modern HTML5 and CSS3 concepts. 
 
 It uses:
